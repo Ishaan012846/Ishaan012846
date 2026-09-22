@@ -4,8 +4,9 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ishaan-gupta-0881842a8/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/allabout_Ishaan) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Ishaan Gupta) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:guptaishaan361@gmail.com) 
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Ishaan012846/Ishaan012846/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
 # 💻 Tech Stack:
