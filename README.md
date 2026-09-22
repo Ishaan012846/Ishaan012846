@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  ISHAAN GUPTA
 🎓 B.Tech CSE @ DIT University | Software Engineering & AI Systems<br><br>💻 Building with Java, Python, Spring Boot & AI/ML<br><br>🤖 Exploring RAG, LLMs, MLOps & Backend Development<br><br>🧠 Currently learning DSA, System Design & Cloud<br><br>🚀 Building projects and preparing for Software Engineering roles
 
 
